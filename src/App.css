@@ -264,6 +264,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  padding: 20px;
 }
 
 .most_item_img {
@@ -305,8 +306,12 @@
 
 .most_content h1 {
   color: #004225;
-  margin-bottom: 40px;
+  /* margin-bottom: 40px; */
   text-align: center;
+}
+
+.most_content h1 span {
+  color: #B2533E;
 }
 
 .shop_main_container {
@@ -375,7 +380,7 @@
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(0, 0, 0, 0.6);
+  background-color: rgba(0, 0, 0, 0.4);
   display: flex;
   justify-content: center;
   align-items: center;

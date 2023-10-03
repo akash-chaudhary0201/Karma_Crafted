@@ -8,9 +8,11 @@ function Lamps() {
         <>
             <div className="lamps_main_container">
                 <div className="lamps_content">
+                    <hr />
                     <h1>
                         Lamps :- <span>New Arrival</span>
                     </h1>
+                    <hr />
                     <div className="lamps_cards">
                         <div className="lamp" style={{ backgroundImage: `url(${lamp1})`, backgroundSize: "cover", backgroundRepeat: "no-repeat", backgroundPosition: "center center", width: "300px", height: "300px" }}>
 

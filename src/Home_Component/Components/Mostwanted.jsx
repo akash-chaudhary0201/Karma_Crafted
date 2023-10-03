@@ -8,7 +8,9 @@ function mostwanted() {
         <>
             <div className="most_main_container">
                 <div className="most_content">
-                    <h1>Our most wanted products</h1>
+                    <hr />
+                    <h1>Our most <span>Wanted</span> products</h1>
+                    <hr />
                     <div className="most_cards">
                         <div className="most_item">
                             <div className="most_item_img">
