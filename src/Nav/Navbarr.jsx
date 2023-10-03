@@ -16,7 +16,7 @@ function Navbarr() {
                         </Nav>
                         <Nav>
                             <Nav.Link className='me-4'><NavLink className="linkk" to="/">Home</NavLink></Nav.Link>
-                            <Nav.Link className='me-4' ><NavLink className="linkk" to="/about">Shop</NavLink></Nav.Link>
+                            <Nav.Link className='me-4' ><NavLink className="linkk" to="/shop">Shop</NavLink></Nav.Link>
                             <Nav.Link className='me-4' ><NavLink className="linkk" to="/about">Contact</NavLink></Nav.Link>
                         </Nav>
                     </Navbar.Collapse>
