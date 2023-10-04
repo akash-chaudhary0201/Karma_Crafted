@@ -3,7 +3,7 @@ import most1 from "./Images/lamp2.jpg"
 import most2 from "./Images/lamp3.jpg"
 import most3 from "./Images/sofa2.jpg"
 
-function mostwanted() {
+function Mostwanted() {
     return (
         <>
             <div className="most_main_container">
@@ -49,4 +49,4 @@ function mostwanted() {
     )
 }
 
-export default mostwanted
+export default Mostwanted

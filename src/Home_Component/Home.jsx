@@ -4,7 +4,7 @@ import img5 from "./Images/home_img5.jpg"
 import img6 from "./Images/home_img6.jpg"
 import Lamps from './Components/Lamps'
 import Sofas from './Components/Sofas'
-import Mostwanted from './Components/mostwanted'
+import Mostwanted from './Components/Mostwanted'
 
 function Home() {
     return (
