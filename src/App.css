@@ -178,6 +178,10 @@
   color: white;
 }
 
+.ak {
+  color: #B2533E;
+}
+
 .lamps_main_container {
   display: flex;
   align-items: center;

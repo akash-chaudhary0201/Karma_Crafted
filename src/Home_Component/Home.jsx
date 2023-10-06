@@ -126,7 +126,7 @@ function Home() {
             </div>
             <div className="footer">
                 <h6>All Right Reserved to Karma Crafted</h6>
-                <h6>Developed by Akash and Sumit</h6>
+                <h6 className='ak' >Developed by Akash and Sumit</h6>
             </div>
         </>
     )
