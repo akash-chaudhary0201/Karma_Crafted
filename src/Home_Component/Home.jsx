@@ -8,7 +8,7 @@ import Mostwanted from './Components/Mostwanted'
 
 function Home() {
     return (
-        <>
+        <>k
             <div className="section1">
                 <div className="home_content">
                     <div className="home_item1">
